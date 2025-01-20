@@ -64,4 +64,4 @@ This project focuses on predicting the likelihood of diabetes in patients using 
 ## How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/Diabetes-Prediction.git
+   git clone https://github.com/Bsetia1/Diabetes-Onset-Prediction-using-Health-Metrics.git
