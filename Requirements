@@ -1,0 +1,18 @@
+##Requirements for the Diabetes Prediction Project
+
+##Python Libraries
+Pandas: For data manipulation and analysis.
+NumPy: For numerical computations.
+Matplotlib: For creating visualizations.
+Seaborn: For enhanced data visualization.
+Scikit-learn: For machine learning (model building, evaluation, and preprocessing).
+Development Environment
+
+##Jupyter Notebook: 
+For writing and running the project code interactively.
+
+##Dataset
+The Pima Indians Diabetes dataset (downloaded from Kaggle).
+
+##Additional Tools
+Joblib or Pickle: For saving and loading trained models (optional, for advanced use cases).
